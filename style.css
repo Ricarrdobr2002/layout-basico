@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 1px solid white;
+}
+
+.bg-primary{
+    height: 50px;
+}
+.bg-warning{
+    height: 150px;
+}
+.bg-success{
+    height: 100px;
+}
+.bg-danger{
+    height: 70px;
+}
